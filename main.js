@@ -1,6 +1,6 @@
 import 'style.css'
-import * as THREE from 'node_modules/three';
-import * as TWEEN from 'node_modules/@tweenjs/tween.js'
+import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r99/three.module.js';
+import * as TWEEN from 'https://cdnjs.cloudflare.com/ajax/libs/tween.js/18.6.4/tween.umd.js'
 // import { OrbitControls } from './node_modules/three/examples/jsm/controls/OrbitControls.js';
 // import { EffectComposer } from "/node_modules/three/examples/jsm/postprocessing/EffectComposer.js";
 // import { RenderPass } from "/node_modules/three/examples/jsm/postprocessing/RenderPass.js";
